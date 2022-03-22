@@ -51,6 +51,11 @@
 ***
 ![image](https://user-images.githubusercontent.com/65989721/159243557-4cd114f7-dabc-4e34-8958-041ccd30d196.png)
 
+## 複数の画法
+
+<img width="735" alt="スクリーンショット 2022-03-21 21 53 10" src="https://user-images.githubusercontent.com/95354321/159401753-1760ef30-e112-4f34-9482-a193494c7729.png">
+
+
 ## 引用
 [GLIDEの論文](https://arxiv.org/abs/2112.10741)  
 [GLIDEのGithub](https://github.com/openai/glide-text2im)
